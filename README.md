@@ -1,4 +1,4 @@
-# ReactNews
+# ReactNews 📰
 
 A Clone of Hacker News built with React
 
