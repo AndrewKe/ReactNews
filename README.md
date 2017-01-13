@@ -1,4 +1,4 @@
-# ReactNews 📰
+# ReactNews 🖥
 
 A Clone of Hacker News built with React
 
@@ -12,6 +12,7 @@ A Clone of Hacker News built with React
 
 - [x] Login/Logout
 - [x] Add Posts
+- [x] Flux-style Architecture
 - [ ] Signup
 - [ ] Comments
 - [ ] Profile View
