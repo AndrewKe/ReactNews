@@ -1,0 +1,43 @@
+.header {
+  background-color: #333;
+  padding: 20px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 50px;
+}
+
+#left {
+  display: flex;
+  flex-direction: row;
+}
+
+#header-right {
+  display: flex;
+}
+
+div a {
+    margin: 0 10px;
+}
+
+#login {
+  color: white;
+}
+
+#title {
+  color: white;
+  text-decoration: none;
+}
+
+.logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

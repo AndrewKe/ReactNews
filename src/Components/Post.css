@@ -1,0 +1,21 @@
+#post {
+  background-color: #EEE;
+  margin: 10px;
+  font-size: 1.2em;
+  padding: 10px;
+  color: black;
+}
+
+#number {
+  color: #666
+}
+
+#post-title {
+  color: black;
+  text-decoration: none;
+}
+
+#website {
+  margin: 0px 10px;
+  color: #777;
+}
