@@ -1,3 +1,5 @@
+// @flow
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './Components/App';
@@ -6,7 +8,6 @@ import Login from './Components/Login';
 import NewPost from './Components/NewPost';
 import './index.css';
 import { Router, Route, hashHistory, IndexRoute} from 'react-router'
-
 
 ReactDOM.render((
   <Router history={hashHistory}>
